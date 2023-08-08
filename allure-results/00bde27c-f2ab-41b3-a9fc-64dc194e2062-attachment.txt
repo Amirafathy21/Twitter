@@ -1,0 +1,18 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                              Test Method: 'submission.tests.submissionTest.AddGif'                                              
+                                                     Test Description: 'send tweet wih GIF'                                                     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[ReportManager] Moved the mouse to the middle of the element. @08-08-2023 15:21:03.0574 PM
+[ReportManager] Click "By.xpath: //*[@id="react-root"]/div/div/div[2]/header/div/div/div/div[1]/div[3]/a/div". @08-08-2023 15:21:03.0641 PM
+[ReportManager] Moved the mouse to the middle of the element. @08-08-2023 15:21:05.0100 PM
+[ReportManager] Click "By.xpath: //*[@id="layers"]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/div[1]/div[2]/div". @08-08-2023 15:21:05.0189 PM
+[ReportManager] Moved the mouse to the middle of the element. @08-08-2023 15:21:05.0923 PM
+[ReportManager] Click "By.xpath: //*[@id="layers"]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div[2]/div[1]/div[1]/img". @08-08-2023 15:21:06.0044 PM
+[ReportManager] Moved the mouse to the middle of the element. @08-08-2023 15:21:06.0624 PM
+[ReportManager] Click "Aww GIF". @08-08-2023 15:21:06.0696 PM
+[ReportManager] Moved the mouse to the middle of the element. @08-08-2023 15:21:07.0052 PM
+[ReportManager] Click "By.xpath: //*[@id="layers"]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/div[2]/div[4]/div/span/span". @08-08-2023 15:21:07.0138 PM
+[ReportManager] Successfully created attachment 'SHAFT Engine Logs - Current Method log: beforeClass' @08-08-2023 15:21:07.0143 PM
